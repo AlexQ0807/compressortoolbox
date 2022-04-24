@@ -1,6 +1,12 @@
 ## Compressor Toolbox for Python
 <hr>
 
+### Setup
+```
+pip install git+https://github.com/AlexQ0807/compressortoolbox.git
+```
+
+
 ### Example
 ```
 from compressortoolbox.compressor import Compressor
