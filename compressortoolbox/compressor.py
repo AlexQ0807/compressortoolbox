@@ -1,6 +1,5 @@
 import zlib, json, base64
 
-
 class Compressor:
     @classmethod
     def compress_string(cls, s):

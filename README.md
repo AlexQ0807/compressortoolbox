@@ -3,7 +3,7 @@
 
 ### Example
 ```
-from compressor import Compressor
+from compressortoolbox.compressor import Compressor
 
 d = {"a": 1, "b": 2}
 
